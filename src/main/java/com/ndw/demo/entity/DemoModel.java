@@ -7,4 +7,5 @@ public class DemoModel {
     private Integer id;
     private String name;
     private String moble;
+    private String address;
 }
