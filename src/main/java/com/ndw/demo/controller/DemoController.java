@@ -13,6 +13,7 @@ public class DemoController {
         dm.setName("王大年");
         dm.setMoble("13126796948");
         dm.setAddress("宿松");
+        dm.setSex("男");
         return dm;
     }
 

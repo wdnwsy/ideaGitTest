@@ -8,4 +8,5 @@ public class DemoModel {
     private String name;
     private String moble;
     private String address;
+    private String sex;
 }
